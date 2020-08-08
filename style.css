@@ -61,6 +61,9 @@ p{
     border:solid  rgb(82, 209, 113) 8px ;
     
 }
+#c0{
+    float: left;
+}
 #c1{
     width: 100%;
     clear: both;
